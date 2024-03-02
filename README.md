@@ -1,3 +1,5 @@
+
+![logo](https://github.com/pavan9248/pavan9248/blob/main/hero-animation.gif]
 <h1 align="center">Hi 👋, I'm Pavan Kumar Yalamarthy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
